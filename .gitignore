@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/classes/
+/data/build/
+/data-local/build/
+/data-remote/build/
+/data-remote/build/intermediates/javac/debug/classes/
+/domain/build/
+/domain/build/intermediates/javac/debug/classes/

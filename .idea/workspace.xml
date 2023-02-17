@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a42263c-98f6-4fe2-b606-6395d412e545" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/yasser/moviesapp/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/stc/moviesapp/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/yasser/moviesapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/stc/moviesapp/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/yasser/moviesapp/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/stc/moviesapp/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/androidTest/java/com/yasser/data_local/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/androidTest/java/com/stc/data_local/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/main/java/com/yasser/data_local/common/Const.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/main/java/com/stc/data_local/common/Const.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/main/java/com/yasser/data_local/common/ICoroutineDispacthers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/main/java/com/stc/data_local/common/ICoroutineDispacthers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/main/java/com/yasser/data_local/common/converter/IntListConverter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/main/java/com/stc/data_local/common/converter/IntListConverter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/main/java/com/yasser/data_local/common/db/AppDataBase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/main/java/com/stc/data_local/common/db/AppDataBase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/main/java/com/yasser/data_local/common/db/DBModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/main/java/com/stc/data_local/common/db/DBModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/main/java/com/yasser/data_local/movies/dao/MoviesDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/main/java/com/stc/data_local/movies/dao/MoviesDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/main/java/com/yasser/data_local/movies/datasource/IMovieLocalDatasource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/main/java/com/stc/data_local/movies/datasource/IMovieLocalDatasource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/main/java/com/yasser/data_local/movies/datasource/MovieLocalDatasource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/main/java/com/stc/data_local/movies/datasource/MovieLocalDatasource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/main/java/com/yasser/data_local/movies/di/MoviesModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/main/java/com/stc/data_local/movies/di/MoviesModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/main/java/com/yasser/data_local/movies/entities/MovieEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/main/java/com/stc/data_local/movies/entities/MovieEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/main/java/com/yasser/data_local/movies/entities/MoviesListEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/main/java/com/stc/data_local/movies/entities/MoviesListEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-local/src/test/java/com/yasser/data_local/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-local/src/test/java/com/stc/data_local/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/androidTest/java/com/yasser/data_remote/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/androidTest/java/com/stc/data_remote/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/common/Const.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/common/Const.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/common/Exceptions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/common/Exceptions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/common/ICoroutineDispacthers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/common/ICoroutineDispacthers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/common/NetworkModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/common/NetworkModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/common/NetworkUtil.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/common/NetworkUtil.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/common/apiResponse/APIStatusCode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/common/apiResponse/APIStatusCode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/common/apiResponse/GeneralApiResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/common/apiResponse/GeneralApiResponse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/common/interceptor/AppInterceptor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/common/interceptor/AppInterceptor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/movies/datasource/IMovieRemoteDataSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/movies/datasource/IMovieRemoteDataSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/movies/datasource/MovieRemoteDataSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/movies/datasource/MovieRemoteDataSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/movies/di/RemoteModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/movies/di/RemoteModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/movies/dto/MovieDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/movies/dto/MovieDTO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/movies/dto/MoviesListDTO.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/movies/dto/MoviesListDTO.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/main/java/com/yasser/data_remote/movies/service/MoviesServicesApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/main/java/com/stc/data_remote/movies/service/MoviesServicesApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-remote/src/test/java/com/yasser/data_remote/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data-remote/src/test/java/com/stc/data_remote/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/data/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/androidTest/java/com/yasser/data/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/androidTest/java/com/stc/data/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/yasser/data/di/RepositoryModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/stc/data/di/RepositoryModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/yasser/data/mapper/IMapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/stc/data/mapper/IMapper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/yasser/data/mapper/Mappers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/stc/data/mapper/Mappers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/yasser/data/model/movies/MovieModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/stc/data/model/movies/MovieModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/yasser/data/model/movies/MoviesLisModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/stc/data/model/movies/MoviesLisModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/yasser/data/repository/IMovieRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/stc/data/repository/IMovieRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/main/java/com/yasser/data/repository/MovieRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/main/java/com/stc/data/repository/MovieRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/src/test/java/com/yasser/data/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data/src/test/java/com/stc/data/ExampleUnitTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/domain/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/src/androidTest/java/com/yasser/domain/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/androidTest/java/com/stc/domain/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/src/test/java/com/yasser/domain/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/test/java/com/stc/domain/ExampleUnitTest.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[WW9SSKLBF6WWMBCQ]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LqtmonmxNyEaLMb608FPy7hVDI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "settings.editor.selected.configurable": "vcs.Subversion"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Movies_App.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Moustafa\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a42263c-98f6-4fe2-b606-6395d412e545" name="Changes" comment="" />
+      <created>1676610602233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676610602233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
